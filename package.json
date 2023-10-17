@@ -8,6 +8,7 @@
     "url": "https://github.com/xendit/xendit-node.git"
   },
   "files": [
+    "dist/**",
     "refund/**",
     "invoice/**",
     "payout/**",
